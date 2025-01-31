@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FTC developer working on all things Pedro Pathing</h3>
 
 <h3 align="center">
- 🔭 Currently working on [XML Configurator for FTC](https://github.com/BaronClaps/XML-Configuration-FTC) </h3>
+ 🔭 Currently working on <a href="https://github.com/BaronClaps/XML-Configuration-FTC">XML Configurator for FTC</a></h3>
 
 <h3 align="center"> 💬 Always thinking about <a href="https://pedropathing.com">Pedro Pathing</a> </h3>
 
