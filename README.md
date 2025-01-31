@@ -4,7 +4,7 @@
 <h3 align="center">
  🔭 Currently working on [XML Configurator for FTC](https://github.com/BaronClaps/XML-Configuration-FTC) </h3>
 
-<h3 align="center"> 💬 Always thinking about </h3> ### [Pedro Pathing](https://pedropathing.com)
+<h3 align="center"> 💬 Always thinking about <a href="https://pedropathing.com">Pedro Pathing</a> </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
