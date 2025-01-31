@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baron</h1>
-<h3 align="center">A passionate FTC developer working on all things Pedro Pathing</h3>
+<h2 align="center">A passionate FTC developer working on all things Pedro Pathing</h3>
 
 <h3 align="center">
  🔭 Currently working on <a href="https://github.com/BaronClaps/XML-Configuration-FTC">XML Configurator for FTC</a></h3>
