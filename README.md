@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Baron</h1>
-<h2 align="center">A passionate FTC developer working on all things Pedro Pathing</h3>
+<!-- <h2 align="center">A passionate FTC developer working on all things Pedro Pathing</h3>
 
-<h3 align="center">
+<!-- <h3 align="center">
  🔭 Currently working on <a href="https://cr.ftc20077.org">A Consistency Rating Metric for FTC</a></h3>
-
-<h3 align="center"> 💬 Always thinking about <a href="https://pedropathing.com">Pedro Pathing</a> </h3>
+-->
+<h2 align="center"> 💬 Always thinking about <a href="https://pedropathing.com">Pedro Pathing</a> </h2>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
